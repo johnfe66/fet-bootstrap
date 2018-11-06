@@ -1,0 +1,26 @@
+.main-header{
+
+    background: url('../resources/images/header-background.jpg');
+    background-size: 100%;
+    position: relative;
+margin-top: 15px;
+
+
+}
+
+.background-overlay{
+
+    background: #8854d0;
+    opacity: .80;
+
+
+}
+
+.margen{
+    margin-top: 20px;
+}
+
+.navbar{
+
+    box-shadow: 10px 2px 5px black;
+}
